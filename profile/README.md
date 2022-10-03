@@ -1,1 +1,1 @@
-# QCFX: Quantum Go Fish and other Games
+# QCFX: Quantum Go Fish and Other Games
